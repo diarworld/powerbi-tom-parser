@@ -1,0 +1,1 @@
+{"version":3,"file":"bim-parser.d.ts","sourceRoot":"","sources":["../../src/parsers/bim-parser.ts"],"names":[],"mappings":"AACA,OAAO,EACL,YAAY,EAaZ,YAAY,EACb,MAAM,mBAAmB,CAAC;AAyB3B;;GAEG;AACH,wBAAsB,YAAY,CAAC,QAAQ,EAAE,MAAM,EAAE,OAAO,CAAC,EAAE,YAAY,GAAG,OAAO,CAAC,YAAY,CAAC,CA8BlG;AAED;;GAEG;AACH,wBAAgB,YAAY,CAAC,IAAI,EAAE,GAAG,EAAE,OAAO,CAAC,EAAE,YAAY,GAAG,YAAY,CAoB5E"}
